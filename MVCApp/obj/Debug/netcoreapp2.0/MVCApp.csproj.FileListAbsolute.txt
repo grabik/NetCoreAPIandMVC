@@ -1,0 +1,11 @@
+C:\Users\фокс\source\repos\CoreWebAPIandMVC\MVCApp\bin\Debug\netcoreapp2.0\MVCApp.deps.json
+C:\Users\фокс\source\repos\CoreWebAPIandMVC\MVCApp\bin\Debug\netcoreapp2.0\MVCApp.runtimeconfig.json
+C:\Users\фокс\source\repos\CoreWebAPIandMVC\MVCApp\bin\Debug\netcoreapp2.0\MVCApp.runtimeconfig.dev.json
+C:\Users\фокс\source\repos\CoreWebAPIandMVC\MVCApp\bin\Debug\netcoreapp2.0\MVCApp.dll
+C:\Users\фокс\source\repos\CoreWebAPIandMVC\MVCApp\obj\Debug\netcoreapp2.0\MVCApp.csprojAssemblyReference.cache
+C:\Users\фокс\source\repos\CoreWebAPIandMVC\MVCApp\obj\Debug\netcoreapp2.0\MVCApp.csproj.CoreCompileInputs.cache
+C:\Users\фокс\source\repos\CoreWebAPIandMVC\MVCApp\obj\Debug\netcoreapp2.0\MVCApp.AssemblyInfoInputs.cache
+C:\Users\фокс\source\repos\CoreWebAPIandMVC\MVCApp\obj\Debug\netcoreapp2.0\MVCApp.AssemblyInfo.cs
+C:\Users\фокс\source\repos\CoreWebAPIandMVC\MVCApp\bin\Debug\netcoreapp2.0\MVCApp.pdb
+C:\Users\фокс\source\repos\CoreWebAPIandMVC\MVCApp\obj\Debug\netcoreapp2.0\MVCApp.dll
+C:\Users\фокс\source\repos\CoreWebAPIandMVC\MVCApp\obj\Debug\netcoreapp2.0\MVCApp.pdb

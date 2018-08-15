@@ -1,0 +1,11 @@
+C:\Users\фокс\source\repos\CoreWebAPIandMVC\WebAPI\bin\Debug\netcoreapp2.0\WebAPI.deps.json
+C:\Users\фокс\source\repos\CoreWebAPIandMVC\WebAPI\bin\Debug\netcoreapp2.0\WebAPI.runtimeconfig.json
+C:\Users\фокс\source\repos\CoreWebAPIandMVC\WebAPI\bin\Debug\netcoreapp2.0\WebAPI.runtimeconfig.dev.json
+C:\Users\фокс\source\repos\CoreWebAPIandMVC\WebAPI\bin\Debug\netcoreapp2.0\WebAPI.dll
+C:\Users\фокс\source\repos\CoreWebAPIandMVC\WebAPI\bin\Debug\netcoreapp2.0\WebAPI.pdb
+C:\Users\фокс\source\repos\CoreWebAPIandMVC\WebAPI\obj\Debug\netcoreapp2.0\WebAPI.csprojAssemblyReference.cache
+C:\Users\фокс\source\repos\CoreWebAPIandMVC\WebAPI\obj\Debug\netcoreapp2.0\WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\фокс\source\repos\CoreWebAPIandMVC\WebAPI\obj\Debug\netcoreapp2.0\WebAPI.AssemblyInfoInputs.cache
+C:\Users\фокс\source\repos\CoreWebAPIandMVC\WebAPI\obj\Debug\netcoreapp2.0\WebAPI.AssemblyInfo.cs
+C:\Users\фокс\source\repos\CoreWebAPIandMVC\WebAPI\obj\Debug\netcoreapp2.0\WebAPI.dll
+C:\Users\фокс\source\repos\CoreWebAPIandMVC\WebAPI\obj\Debug\netcoreapp2.0\WebAPI.pdb
